@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.231.211.159:8081/repository/sample-releases/</url>
+		    <url>http://54.159.184.204:8081/repository/jenkins-demo1/</url>
 		</repository>
   	</distributionManagement>
 	
