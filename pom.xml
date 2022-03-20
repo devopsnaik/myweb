@@ -26,14 +26,14 @@
 	</dependencies>
 	
 	<distributionManagement>
-		 <!-- <snapshotRepository>
+		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.159.184.204:8081/repository/jenkins-demo/</url>
-		 </snapshotRepository> -->
+		    <url>http://54.159.184.204:8081/repository/job/</url>
+		 </snapshotRepository> 
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.159.184.204:8081/repository/jenkins-demo1/</url>
+		    <url>http://54.159.184.204:8081/repository/job/</url>
 		</repository>
   	</distributionManagement>
 	
